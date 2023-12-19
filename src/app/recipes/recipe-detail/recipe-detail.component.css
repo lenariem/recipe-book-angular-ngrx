@@ -1,0 +1,17 @@
+a {
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  width: 180px;
+}
+
+.manageIcon {
+  float: right;
+}
+
+.dropdown-toggle,
+.ingredientsContainer,
+.descriptionContainer {
+  margin-bottom: 10px;
+}
